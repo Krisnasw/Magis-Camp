@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Magis Camp</string>
+    <string name="loading">Loading...</string>
+    <string name="Hello">Hello</string>
+    <string name="tts">Text To Speech</string>
+    <string name="src">Speech Recognition</string>
+    <string name="pley">Play Audio</string>
+    <string name="textto">Text To Speech</string>
+    <string name="etTts">Enter some text to speak</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="icon">Icon Mic</string>
+    <string name="playy">Play</string>
+    <string name="fause">Pause</string>
+    <string name="setop">Stop</string>
+</resources>
